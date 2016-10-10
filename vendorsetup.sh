@@ -1,3 +1,4 @@
-add_lunch_combo cm_oneplus2-user
-add_lunch_combo cm_oneplus2-userdebug
-add_lunch_combo cm_oneplus2-eng
+add_lunch_combo cyanide_oneplus2-user
+add_lunch_combo cyanide_oneplus2-userdebug
+add_lunch_combo cyanide_oneplus2-eng
+
